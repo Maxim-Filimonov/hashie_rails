@@ -1,3 +1,7 @@
+### 0.0.4
+
+* Renamed to hashie-forbidden_attributes. Last release.
+
 ### 0.0.3 (Next)
 
 * Your contribution here.
