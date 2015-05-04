@@ -30,6 +30,6 @@ Gem::Specification.new do |s|
   s.post_install_message = <<-MESSAGE
 !    The 'hashie_rails' gem has been deprecated and has been replaced by 'hashie-forbidden_attributes'.
 !    See: https://rubygems.org/gems/hashie-forbidden_attributes
-!    And: https://github.com/Maxim-Filimonov/hashie-hashie-forbidden_attributes
+!    And: https://github.com/Maxim-Filimonov/hashie-forbidden_attributes
 MESSAGE
 end
